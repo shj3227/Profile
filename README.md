@@ -27,7 +27,27 @@
  
  ## 개인 및 프로젝트
  
- #### 간단한 리듬 게임
+  ### Fastcampus에서 만든 결과물들
+ 
+  - 진행기간 : 2016.06 ~ 2016.10
+ 
+  #### Flyfugu(비행기 게임)
+  - 주요내용 : 비행기 게임
+  - 공헌내용 : 개인
+  - 사용기술 : Unity
+  - 데모 영상 : 
+ 
+   ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/FirstGame_Flyfugu.gif)
+   
+   #### 달려라 유니티쨩(러너 게임)
+  - 주요내용 : 러너 게임
+  - 공헌내용 : 개인
+  - 사용기술 : Unity
+  - 데모 영상 : 
+ 
+   ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Start.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Play.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_End.gif)
+ 
+ #### Unity를 이용해 만든 리듬 게임
  
  - 진행기간 : 2016.09 ~ 2016.10
  - 주요내용 : 상하좌우에 나오는 리듬에 맞추어서 적들을 물리치는 게임.
