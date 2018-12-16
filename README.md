@@ -37,31 +37,42 @@
   - 사용기술 : Unity
   - 데모 영상 : 
  
-   ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/FirstGame_Flyfugu.gif)
+    ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/FirstGame_Flyfugu.gif)
    
-   #### 달려라 유니티쨩(러너 게임)
+  #### 달려라 유니티쨩(러너 게임)
   - 주요내용 : 러너 게임
   - 공헌내용 : 개인
   - 사용기술 : Unity
   - 데모 영상 : 
  
-   ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Start.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Play.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_End.gif)
+    ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Start.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Play.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_End.gif)
  
- #### Unity를 이용해 만든 리듬 게임
+  #### Unity를 이용해 만든 리듬 게임
  
- - 진행기간 : 2016.09 ~ 2016.10
- - 주요내용 : 상하좌우에 나오는 리듬에 맞추어서 적들을 물리치는 게임.
- - 공헌내용 : 개인
- - 사용기술 : Unity, Photoshop
- - 데모 영상 : 
+  - 진행기간 : 2016.09 ~ 2016.10
+  - 주요내용 : 상하좌우에 나오는 리듬에 맞추어서 적들을 물리치는 게임.
+  - 공헌내용 : 개인
+  - 사용기술 : Unity, Photoshop
+  - 데모 영상 : 
  
-   ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRhythmGame.gif)
+    ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRhythmGame.gif)
  
- #### Vr 다큐멘터리
+  #### VR 다큐멘터리
  
- #### 전화번호부
+  - 진행기간 : 2017.09 ~ 2017.10
+  - 주요내용 : 상하좌우에 나오는 리듬에 맞추어서 적들을 물리치는 게임.
+  - 사용기술 : Unity
  
- #### 중고나라사이트
+  #### 전화번호부
+  
+  
  
+  #### 중고나라사이트
  
+  - 진행기간 : 2018.10 ~ 2018.12
+  - 주요내용 : 유저끼리 거래할 수 있는 중고 거래 사이트.
+  - 공헌내용 : 자바, 자바스크립트, 오라클
+  - 사용기술 :자바, 자바스크립트, 오라클
+  - 데모 영상 : 
  
+    ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_1.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_2.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_3.gif)
