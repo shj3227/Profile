@@ -79,7 +79,7 @@
   - 주요내용 : 유저끼리 거래할 수 있는 중고 거래 사이트.
   - 공헌내용 : 자바, 자바스크립트, 오라클
   - 사용기술 :자바, 자바스크립트, 오라클
-  - 소스 : https://github.com/shj3227/Java/tree/master/Shj_Project
+  - 소스 : https://github.com/shj3227/Java
   - 데모 영상 : 
  
     <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_1.gif" width="389" height="180"></img>
