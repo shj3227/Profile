@@ -78,4 +78,6 @@
   - 사용기술 :자바, 자바스크립트, 오라클
   - 데모 영상 : 
  
-    ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_1.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_2.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_3.gif)
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_1.gif" width="389" height="180"></img>
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_2.gif" width="389" height="180"></img>
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_3.gif" width="389" height="180"></img>
