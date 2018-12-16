@@ -1,9 +1,7 @@
 # Profile
 
  - 이름 : 성홍제
-  - 메일 : shj3227@naver.com
-
- 
+ - 메일 : shj3227@naver.com
  - 깃 허브 :https://github.com/shj3227
  
  ## 보유 기술
@@ -35,8 +33,9 @@
  - 주요내용 : 상하좌우에 나오는 리듬에 맞추어서 적들을 물리치는 게임.
  - 공헌내용 : 개인
  - 사용기술 : Unity, Photoshop
+ - 데모 영상 : 
  
- ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRhythmGame.gif)
+   ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRhythmGame.gif)
  
  #### Vr 다큐멘터리
  
