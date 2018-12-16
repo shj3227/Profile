@@ -31,7 +31,12 @@
  
  #### 간단한 리듬 게임
  
- ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRhythmGame.gif)<br>
+ - 진행기간 : 2016.09 ~ 2016.10
+ - 주요내용 : 상하좌우에 나오는 리듬에 맞추어서 적들을 물리치는 게임.
+ - 공헌내용 : 개인
+ - 사용기술 : Unity, Photoshop
+ 
+ ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRhythmGame.gif)
  
  #### Vr 다큐멘터리
  
