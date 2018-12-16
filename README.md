@@ -45,7 +45,10 @@
   - 사용기술 : Unity
   - 데모 영상 : 
  
-    ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Start.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Play.gif)![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_End.gif)
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Start.gif" width="381" height="180"></img>
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_Play.gif" width="381" height="180"></img>
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRunnerGame_End.gif" width="381" height="180"></img>
+  
  
   #### Unity를 이용해 만든 리듬 게임
  
