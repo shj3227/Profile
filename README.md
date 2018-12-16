@@ -14,6 +14,10 @@
  * 교육기간 : 2016.06. ~ 2016.10.
  * 이수내용 : unity를 이용한 게임 개발자 육성.
  
+ #### 광교 비지니스센터 -  VR 및 AR 교육 
+ * 교육기간 : 2016.10. ~ 2016.11.
+ * 이수내용 : unity와 뷰포리아를 이용해 AR과 VR .
+ 
  #### kmove 화성 - 2기
  * 교육기간 : 2018.07~ 2019.02
  * 이수내용 : Java를 이용한 개발자 육성
@@ -59,6 +63,17 @@
   - 데모 영상 : 
  
     ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRhythmGame.gif)
+    
+  #### VR 예제 실습
+  
+  - 주요내용 : Unity를 이용한 VR영상
+  - 공헌내용 : 개인
+  - 사용기술 : Unity
+  - 데모 영상 : 
+ 
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/VRSample_1.gif"></img>
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/VRSample_2.gif"></img>
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/VRSample_3.gif"></img>
  
   #### VR 다큐멘터리
  
