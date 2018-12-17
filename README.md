@@ -1,7 +1,7 @@
 # Profile
 
  - 이름 : 성홍제
- - 메일 : shj3227@naver.com
+ - 메일 : dangerddung@dreamwiz.com
  - 깃 허브 :https://github.com/shj3227
  
  ## 보유 기술
@@ -37,7 +37,6 @@
  
   #### Flyfugu(비행기 게임)
   - 주요내용 : 비행기 게임
-  - 공헌내용 : 개인
   - 사용기술 : Unity
   - 데모 영상 : 
  
@@ -45,7 +44,6 @@
    
   #### 달려라 유니티쨩(러너 게임)
   - 주요내용 : 러너 게임
-  - 공헌내용 : 개인
   - 사용기술 : Unity
   - 데모 영상 : 
  
@@ -58,29 +56,13 @@
  
   - 진행기간 : 2016.09 ~ 2016.10
   - 주요내용 : 상하좌우에 나오는 리듬에 맞추어서 적들을 물리치는 게임.
-  - 공헌내용 : 개인
   - 사용기술 : Unity, Photoshop
   - 데모 영상 : 
  
     ![데모영상](https://github.com/shj3227/Profile/blob/master/ProjectImage/UnityRhythmGame.gif)
     
-  #### VR 예제 실습
-  
-  - 주요내용 : Unity를 이용한 VR영상
-  - 공헌내용 : 개인
-  - 사용기술 : Unity
-  - 데모 영상 : 
- 
-    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/VRSample_1.gif"></img>
-    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/VRSample_2.gif"></img>
-    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/VRSample_3.gif"></img>
- 
-  #### VR 다큐멘터리
- 
-  - 진행기간 : 2017.09 ~ 2017.10
-  - 주요내용 : 상하좌우에 나오는 리듬에 맞추어서 적들을 물리치는 게임.
-  - 사용기술 : Unity
- 
+  ### Kmove에서 만든 결과물들
+    
   #### 전화번호부
   
   - 진행기간 : 2018.09 ~ 2018.10
@@ -100,3 +82,24 @@
     <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_1.gif" width="389" height="180"></img>
     <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_2.gif" width="389" height="180"></img>
     <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/JavaProject_Site_3.gif" width="389" height="180"></img>
+
+  ### 기타 작업 결과물
+  
+  #### VR 예제 실습
+  
+  - 주요내용 : Unity를 이용한 VR영상
+  - 공헌내용 : 개인
+  - 사용기술 : Unity
+  - 데모 영상 : 
+ 
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/VRSample_1.gif"></img>
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/VRSample_2.gif"></img>
+    <img src="https://github.com/shj3227/Profile/blob/master/ProjectImage/VRSample_3.gif"></img>
+ 
+  #### VR 다큐멘터리
+ 
+  - 진행기간 : 2017.09 ~ 2017.10
+  - 주요내용 : 상하좌우에 나오는 리듬에 맞추어서 적들을 물리치는 게임.
+  - 사용기술 : Unity
+ 
+  
